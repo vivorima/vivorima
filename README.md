@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/vivosalvador/vivosalvador/blob/main/animation.gif" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning Computer Vision techniques, Deep Learning and some programming languages.
 
