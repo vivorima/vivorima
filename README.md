@@ -24,6 +24,9 @@
       alt="Rima Mahmoudi" height="30" width="40" /></a>
 </p>
 
+
 <br>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vivosalvador&layout=compact&theme=buefy&count-private=true)
+
+<br>
