@@ -11,13 +11,13 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rima-mahmoudi-664600232" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Rima Mahmoudi" height="30" width="40" /></a>
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivosalvador&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivorima&theme=buefy)
 
 <br>
