@@ -7,6 +7,8 @@
 - 💼 Bachelor's in Information Systems & Software Engineering.
 - 📧 Reach me at: mahmoudirima98@gmail.com or mahmoudivrima@gmail.com
 
+<p><img align="right" src="https://github.com/vivosalvador/vivosalvador/blob/main/animation.gif" alt="adam-pw" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rima-mahmoudi-664600232" target="blank"><img align="center"
@@ -17,5 +19,3 @@
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivorima&theme=buefy)
-
-<p><img align="right" src="https://github.com/vivosalvador/vivosalvador/blob/main/animation.gif" alt="adam-pw" /></p>
