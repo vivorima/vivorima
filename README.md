@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Rima Mahmoudi</h1>
 <h3 align="center">Computer Vision Enthusiast </h3> 
 
-- 👩‍💻 Seeking opportunities in Computer Vision, AI and related fields.
-- 🎓 Currently a Computer Vision intern @DessiaTechnologies for my final year graduation project for my second Master's in Computer Vision & Intelligent Machines @University of Paris Cité. (2024)
-- 🏫 Master's in Image Processing, Visual Computing & Computer Vision @USTHB. (2021)
-- 💼 Bachelor's in Information Systems & Software Engineering @USTHB. (2019)
-- 📧 Reach me at: mahmoudirima98@gmail.com **or** mahmoudivrima@gmail.com
+- Currently a PhD Student in AI & Computer Vision @INSA CVL in Bourges, France.
+- 🎓 Master's in Computer Vision & Artificial Intelligence @University of Paris Cité. (2024)
+- 🎓 Master's in Image Processing, Visual Computing & Computer Vision @USTHB. (2021)
+- 🎓 Bachelor's in Information Systems & Software Engineering @USTHB. (2019)
+- 📧 Reach me at: rima.mahmoudi@insa-cvl.fr **or** mahmoudivrima@gmail.com
 
 <p><img align="right" src="https://github.com/vivosalvador/vivosalvador/blob/main/animation.gif" alt="adam-pw" /></p>
 
