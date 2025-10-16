@@ -5,7 +5,7 @@
 - 🎓 Master's in Computer Vision & Artificial Intelligence @University of Paris Cité. (2024)
 - 🎓 Master's in Image Processing, Visual Computing & Computer Vision @USTHB. (2021)
 - 🎓 Bachelor's in Information Systems & Software Engineering @USTHB. (2019)
-- 📧 Reach me at: rima.mahmoudi@insa-cvl.fr **or** mahmoudivrima@gmail.com
+- Reach me at: rima.mahmoudi@insa-cvl.fr **or** mahmoudivrima@gmail.com
 
 <p><img align="right" src="https://github.com/vivosalvador/vivosalvador/blob/main/animation.gif" alt="adam-pw" /></p>
 
