@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Rima Mahmoudi</h1>
-<h3 align="center">Computer Vision Enthusiast </h3> 
+<!-- <h3 align="center">Computer Vision Enthusiast </h3>  -->
 
 - Currently a PhD Student in AI & Computer Vision @INSA CVL in Bourges, France.
 - 🎓 Master's in Computer Vision & Artificial Intelligence @University of Paris Cité. (2024)
